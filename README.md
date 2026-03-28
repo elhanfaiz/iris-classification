@@ -77,7 +77,7 @@ Models were evaluated using:
 --
 
 ##  Live Demo
-(Add Streamlit link after deployment)
+https://gtahivaurdkpdzba6pmxur.streamlit.app/
 
 
 ##  How to Run
