@@ -74,11 +74,14 @@ Models were evaluated using:
 - Seaborn
 - Scikit-learn
 
----
+--
+
+##  Live Demo
+https://gtahivaurdkpdzba6pmxur.streamlit.app/
+
 
 ##  How to Run
 
 ```bash
-cd your-repo-name
 pip install -r requirements.txt
-jupyter notebook
+streamlit run app.py
